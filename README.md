@@ -7,7 +7,7 @@ Built with React.
 
 | Project | Live Demo | Code | Description |
 |---------|-----------|------|-------------|
-| 🍕 Pizza Menu | [Live Demo](https://huiling-dev.github.io/react-practice/pizza-menu/) | [Code](./pizza-menu) | A restaurant pizza menu built with components, props & JSX |
+| 🍕 Pizza Menu | [Live Demo]([https://huiling-dev.github.io/react-practice/pizza-menu/](https://pizza-menu-rust-kappa.vercel.app)) | [Code](./pizza-menu) | A restaurant pizza menu built with components, props & JSX |
 
 ## Tech Stack
 
