@@ -8,7 +8,7 @@ Built with React.
 | Project | Live Demo | Code | Description |
 |---------|-----------|------|-------------|
 | 🍕 Pizza Menu | [Live Demo](https://pizza-menu-rust-kappa.vercel.app) | [Code](./pizza-menu) | A restaurant pizza menu built with components, props & JSX |
-| 👣 Steps | [Live Demo]() | [Code](./steps) | A step widget practicing `useState` & condi |
+| 👣 Steps | [Live Demo](https://steps-psi-khaki.vercel.app) | [Code](./steps) | A step widget practicing `useState` & condi |
 
 ## Tech Stack
 
