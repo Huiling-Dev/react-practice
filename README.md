@@ -7,7 +7,7 @@ Built with React.
 | 🍕 Pizza Menu | [Live Demo](https://pizza-menu-rust-kappa.vercel.app) | [Code](./pizza-menu) | A restaurant pizza menu built with components, props & JSX |
 | 👣 Steps | [Live Demo](https://steps-psi-khaki.vercel.app) | [Code](./steps) | A step-by-step guide widget exploring `useState`, event handlers & conditional rendering |
 | 🧳 Travel List | [Live Demo](https://travel-list-ten-sigma.vercel.app) | [Code](./travel-list) | A packing checklist app exploring controlled forms, arrays & derived state |
-| ⚛️ React Essentials | [Live Demo](xxxxx) | [Code](./react-essentials) | A foundational app exploring core concepts, components, JSX, props, and state management |
+| ⚛️ React Essentials | [Live Demo](https://react-essentials-chi.vercel.app/) | [Code](./react-essentials) | A foundational app exploring core concepts, components, JSX, props, and state management |
 ## Tech Stack
 - React
 - JavaScript (ES6+)
