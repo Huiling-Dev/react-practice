@@ -1,13 +1,10 @@
-export const TabButton = ({ children, onSelect, isSelected }) => {
-  console.log('TAB BUTTON ECECUTING');
-
+export default function TabButton({ children, isSelected, ...props }) {
+  console.log('TABBUTTON COMPONENT EXECUTING');
   return (
-    <div>
-      <li>
-        <button className={isSelected ? 'active' : ''} onClick={onSelect}>
-          {children}
-        </button>
-      </li>
-    </div>
+    <li>
+      <button className={isSelected ? 'active' : undefined} {...props}>
+        {children}
+      </button>
+    </li>
   );
-};
+}
